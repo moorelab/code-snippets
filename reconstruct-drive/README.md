@@ -1,4 +1,5 @@
-== reconstruct electrode array from explanted drive ==
+Reconstruct electrode array from explanted drive
+=============
 
 see www.mit.edu/~jvoigts for documentation ( http://jvoigts.scripts.mit.edu/blog/localizing-recording-sites-reconstructing-explanted-electrode-arrays/ )
 
